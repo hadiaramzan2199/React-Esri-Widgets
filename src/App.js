@@ -1,5 +1,4 @@
 import React from 'react';
-// import MapComponent from './map';
 import EditorWidgetComponent from './editor';
 const App = () => {
   return (
