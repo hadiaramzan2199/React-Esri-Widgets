@@ -59,7 +59,7 @@ To customize the application or connect it to a different ArcGIS REST service, y
 
 - **Layer Configuration**: Customize how map layers are loaded and configured.
 
-- **Widget Configuration(**: Adjust the widgets you want to display and their placement on the map.
+- **Widget Configuration**: Adjust the widgets you want to display and their placement on the map.
 
 ## Dependencies
 
